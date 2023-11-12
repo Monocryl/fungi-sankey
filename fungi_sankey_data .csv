@@ -1,0 +1,186 @@
+disease,transmission,risk.factor
+aspergillosis,sapronotic,air contamination
+aspergillosis,sapronotic,coinfection
+aspergillosis,sapronotic,comorbidity
+aspergillosis,sapronotic,immunosuppression
+aspergillosis,sapronotic,soil properties
+aspergillosis,sapronotic,age
+aspergillosis,sapronotic,environmental pollution
+aspergillosis,sapronotic,medical procedures
+aspergillosis,sapronotic,water contamination
+aspergillosis,sapronotic,agricultural activity
+aspergillosis,sapronotic,reservoir abundance
+aspergillosis,sapronotic,wind
+blastomycosis,environmental,seasonality
+blastomycosis,environmental,soil disturbance
+blastomycosis,environmental,soil properties
+blastomycosis,environmental,waterway proximity
+blastomycosis,environmental,race
+blastomycosis,environmental,soil moisture
+blastomycosis,environmental,waterway proximity
+candidiasis,sapronotic,comorbidity
+candidiasis,sapronotic,proximity to wetlands
+candidiasis,environmental,antimicrobial resistance
+candidiasis,environmental,association with stored fruit
+candidiasis,environmental,climate change
+candidiasis,environmental,comorbidity
+candidiasis,environmental,hand hygiene
+candidiasis,environmental,human migration
+candidiasis,environmental,immunosuppression
+candidiasis,environmental,international travel
+candidiasis,environmental,medical procedures
+candidiasis,environmental,morphogenetic adaptation
+candidiasis,environmental,public health infrastructure
+candidiasis,environmental,soil contamination
+candidiasis,environmental,soil salinity
+candidiasis,environmental,surface contamination
+candidiasis,environmental,temperature
+candidiasis,environmental,water contamination
+candidiasis,environmental,water salinity
+candidiasis,environmental,deforestation
+candidiasis,environmental,encroachment
+candidiasis,sapronotic,age
+candidiasis,sapronotic,hand hygiene
+candidiasis,sapronotic,HIV/AIDS
+candidiasis,sapronotic,immunosuppression
+candidiasis,sapronotic,medical procedures
+candidemia,sapronotic,antimicrobial resistance
+candidemia,sapronotic,immunosuppression
+candidemia,sapronotic,medical procedures
+candidiasis,sapronotic,morphogenetic adaptation
+candidiasis,sapronotic,salinity
+Valley fever,environmental,agricultural activity
+Valley fever,environmental,climate change
+Valley fever,environmental,earthquakes
+Valley fever,environmental,extreme weather
+Valley fever,environmental,land coverage
+Valley fever,environmental,military training exercises
+Valley fever,environmental,precipitation
+Valley fever,environmental,proximity to ancient indian burial sites
+Valley fever,environmental,seasonality
+Valley fever,environmental,soil disturbance
+Valley fever,environmental,wind
+Valley fever,environmental,age
+Valley fever,environmental,distance to desert
+Valley fever,environmental,human population density
+Valley fever,environmental,poverty
+Valley fever,environmental,soil properties
+Valley fever,environmental,air contamination
+Valley fever,environmental,biological sex
+Valley fever,environmental,cigarette smoking
+Valley fever,environmental,comorbidity
+Valley fever,environmental,drought
+Valley fever,environmental,HIV/AIDS
+Valley fever,environmental,humidity
+Valley fever,environmental,immunosuppression
+Valley fever,environmental,incarceration
+Valley fever,environmental,medical procedures
+Valley fever,environmental,pregnancy
+Valley fever,environmental,race
+Valley fever,environmental,soil moisture
+Valley fever,environmental,soil salinity
+Valley fever,environmental,temperature
+Valley fever,environmental,travel
+cryptococcosis,environmental,animal migration
+cryptococcosis,environmental,biological sex
+cryptococcosis,environmental,climate change
+cryptococcosis,environmental,deforestation
+cryptococcosis,environmental,host diversification
+cryptococcosis,environmental,host migration
+cryptococcosis,environmental,human-plant contact
+cryptococcosis,environmental,humidity
+cryptococcosis,environmental,immunosuppression
+cryptococcosis,environmental,immunosupression
+cryptococcosis,environmental,international trade
+cryptococcosis,environmental,land use change
+cryptococcosis,environmental,race
+cryptococcosis,environmental,reservoir abundance
+cryptococcosis,environmental,seasonality
+cryptococcosis,environmental,soil contamination
+cryptococcosis,environmental,soil properties
+cryptococcosis,environmental,temperature
+cryptococcosis,environmental,tree species abundance
+cryptococcosis,environmental,water contamination
+cryptococcosis,environmental,wind
+cryptococcosis,environmental,air contamination
+cryptococcosis,environmental,human-animal contact
+cryptococcosis,environmental,HIV/AIDS
+Fusarium infection,sapronotic,agricultural activity
+Fusarium infection,sapronotic,climate change
+Fusarium infection,sapronotic,immunosuppression
+Fusarium infection,sapronotic,precipitation
+histoplasmosis,environmental,agricultural activity
+histoplasmosis,environmental,climate change
+histoplasmosis,environmental,coinfection
+histoplasmosis,environmental,encroachment
+histoplasmosis,environmental,environmental disturbance
+histoplasmosis,environmental,immunosuppression
+histoplasmosis,environmental,land use change
+histoplasmosis,environmental,occupation
+histoplasmosis,environmental,soil contamination
+histoplasmosis,environmental,soil disturbance
+histoplasmosis,environmental,soil properties
+histoplasmosis,environmental,spelunking
+Lomentospora prolificans infection,environmental,air contamination
+Lomentospora prolificans infection,environmental,antimicrobial resistance
+Lomentospora prolificans infection,environmental,coinfection
+Lomentospora prolificans infection,environmental,dry climate
+Lomentospora prolificans infection,environmental,immunosuppression
+Lomentospora prolificans infection,environmental,medical procedures
+Lomentospora prolificans infection,environmental,public health infrastructure
+Lomentospora prolificans infection,environmental,urbanization
+eumycetoma,sapronotic,animal dung
+eumycetoma,sapronotic,soil contamination
+eumycetoma,sapronotic,traumatic inoculation
+mucormycosis,environmental,agricultural activity
+mucormycosis,environmental,air contamination
+mucormycosis,environmental,food contamination
+mucormycosis,environmental,human-animal contact
+mucormycosis,environmental,medical procedures
+mucormycosis,environmental,natural disaster
+mucormycosis,environmental,reservoir abundance
+mucormycosis,environmental,reservoir distribution
+mucormycosis,environmental,soil contamination
+mucormycosis,environmental,soil moisture
+mucormycosis,environmental,soil properties
+mucormycosis,environmental,surface contamination
+mucormycosis,environmental,water contamination
+mucormycosis,environmental,wind
+paracoccidiomycosis,environmental,agricultural activity
+paracoccidiomycosis,environmental,elevation
+paracoccidiomycosis,environmental,ENSO cycle
+paracoccidioidomycosis,environmental,human migration
+paracoccidioidomycosis,environmental,humidity
+paracoccidiomycosis,environmental,humidity
+paracoccidiomycosis,environmental,occupation
+paracoccidiomycosis,environmental,rainfall
+paracoccidioidomycosis,environmental,reservoir abundance
+paracoccidioidomycosis,environmental,soil properties
+paracoccidioidomycosis,environmental,temperature
+candidiasis,sapronotic,fruit association
+candidiasis,sapronotic,plant association
+candidiasis,sapronotic,soil association
+Pneumocystis pneumonia,environmental,age
+Pneumocystis pneumonia,environmental,air contamination
+Pneumocystis pneumonia,environmental,atmospheric pressure
+Pneumocystis pneumonia,environmental,coinfection
+Pneumocystis pneumonia,environmental,HIV/AIDS
+Pneumocystis pneumonia,environmental,humidity
+Pneumocystis pneumonia,environmental,immunosuppression
+Pneumocystis pneumonia,environmental,public health infrastructure
+Pneumocystis pneumonia,environmental,temperature
+Pneumocystis pneumonia,environmental,wind
+sporotrichosis,zoonotic,climate change
+sporotrichosis,zoonotic,host abundance
+sporotrichosis,zoonotic,host diversification
+sporotrichosis,zoonotic,morphogenetic adaptation
+sporotrichosis,zoonotic,reservoir distribution
+sporotrichosis,zoonotic,traumatic inoculation
+sporotrichosis,sapronotic,human-plant contact
+sporotrichosis,sapronotic,occupation
+talaromycosis,environmental,agricultural activity
+talaromycosis,environmental,HIV/AIDS
+talaromycosis,environmental,humidity
+talaromycosis,environmental,immunosupression
+talaromycosis,environmental,rainfall
+talaromycosis,environmental,seasonality
